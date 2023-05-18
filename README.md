@@ -1,6 +1,6 @@
 <h1 align="center">Youtan</h1>
 
-O projeto consiste no desenvolvimento de Api's com django rest para fins de Autenticação e CRUD. Na aplicação existe um sistema de interceptadores, para a verificação e refresh do token caso o mesmo se expire.
+
 
 Back-end: Django, Django Rest framework. </br>
 Front-end: React, Axios, Bootstrap, React-Toast. </br>
@@ -29,12 +29,4 @@ Para executar o Frontend da aplicação:
 
 3° Iniciar a aplicação com o comando: npm start.
 
-------------------------------------------------------------------------------------------------------------------------
-Todas as api's listadas abaixo:
-
-home/ </br>
-logout/  </br>
-create/  </br>
-token/  </br>
-token/refresh/  </br>
 
